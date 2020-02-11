@@ -1,6 +1,6 @@
 # spin-activity-ontology
 
-It loads the ontology and the statements 
+It loads the ontology and the statements.
 
 RESOURCES:
 On spin-activity-ontology/src/main/resources/ path:
