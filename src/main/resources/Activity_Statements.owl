@@ -1,0 +1,1007 @@
+@prefix a: <http://www.semanticweb.org/user/ontologies/2020/1/activity#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+a:Activity_0 a a:Activity;
+  a:hasElement a:Element_0;
+  a:hasObservation a:Observation_0 .
+
+a:Element_0 a a:Element;
+  a:hasContentString "PrepareHotTea";
+  a:hasEndDate "2014-05-05T18:17:30.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:10:50.000"^^xsd:dateTime .
+
+a:Observation_0 a a:Observation;
+  a:hasElement a:Element_0_0, a:Element_0_1, a:Element_0_10, a:Element_0_11, a:Element_0_12,
+    a:Element_0_13, a:Element_0_2, a:Element_0_3, a:Element_0_4, a:Element_0_5, a:Element_0_6,
+    a:Element_0_7, a:Element_0_8, a:Element_0_9 .
+
+a:Element_0_0 a a:Element;
+  a:hasContentString "Sugar";
+  a:hasEndDate "2014-05-05T18:14:54.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:14:27.000"^^xsd:dateTime .
+
+a:Element_0_1 a a:Element;
+  a:hasContentString "TeaBag";
+  a:hasEndDate "2014-05-05T18:16:56.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:16:35.000"^^xsd:dateTime .
+
+a:Element_0_2 a a:Element;
+  a:hasContentString "TeaBag";
+  a:hasEndDate "2014-05-05T18:16:07.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:15:41.000"^^xsd:dateTime .
+
+a:Element_0_3 a a:Element;
+  a:hasContentString "Kettle";
+  a:hasEndDate "2014-05-05T18:11:19.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:10:50.000"^^xsd:dateTime .
+
+a:Element_0_4 a a:Element;
+  a:hasContentString "Kettle";
+  a:hasEndDate "2014-05-05T18:17:30.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:17:01.000"^^xsd:dateTime .
+
+a:Element_0_5 a a:Element;
+  a:hasContentString "Kettle";
+  a:hasEndDate "2014-05-05T18:13:27.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:13:05.000"^^xsd:dateTime .
+
+a:Element_0_6 a a:Element;
+  a:hasContentString "Sugar";
+  a:hasEndDate "2014-05-05T18:14:02.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:13:38.000"^^xsd:dateTime .
+
+a:Element_0_7 a a:Element;
+  a:hasContentString "TeaZone";
+  a:hasEndDate "2014-05-05T18:12:31.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:12:09.000"^^xsd:dateTime .
+
+a:Element_0_8 a a:Element;
+  a:hasContentString "TeaZone";
+  a:hasEndDate "2014-05-05T18:12:37.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:12:15.000"^^xsd:dateTime .
+
+a:Element_0_9 a a:Element;
+  a:hasContentString "TeaZone";
+  a:hasEndDate "2014-05-05T18:11:16.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:10:51.000"^^xsd:dateTime .
+
+a:Element_0_10 a a:Element;
+  a:hasContentString "TeaZone";
+  a:hasEndDate "2014-05-05T18:12:10.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:11:42.000"^^xsd:dateTime .
+
+a:Element_0_11 a a:Element;
+  a:hasContentString "TeaZone";
+  a:hasEndDate "2014-05-05T18:16:52.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:16:25.000"^^xsd:dateTime .
+
+a:Element_0_12 a a:Element;
+  a:hasContentString "TeaZone";
+  a:hasEndDate "2014-05-05T18:11:59.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:11:30.000"^^xsd:dateTime .
+
+a:Element_0_13 a a:Element;
+  a:hasContentString "TeaZone";
+  a:hasEndDate "2014-05-05T18:16:26.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:15:58.000"^^xsd:dateTime .
+
+a:Activity_1 a a:Activity;
+  a:hasElement a:Element_1;
+  a:hasObservation a:Observation_1 .
+
+a:Element_1 a a:Element;
+  a:hasContentString "MakePhoneCall";
+  a:hasEndDate "2014-05-05T18:27:34.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:18:43.000"^^xsd:dateTime .
+
+a:Observation_1 a a:Observation;
+  a:hasElement a:Element_1_0, a:Element_1_1, a:Element_1_10, a:Element_1_11, a:Element_1_12,
+    a:Element_1_13, a:Element_1_14, a:Element_1_15, a:Element_1_16, a:Element_1_17, a:Element_1_18,
+    a:Element_1_19, a:Element_1_2, a:Element_1_20, a:Element_1_3, a:Element_1_4, a:Element_1_5,
+    a:Element_1_6, a:Element_1_7, a:Element_1_8, a:Element_1_9 .
+
+a:Element_1_0 a a:Element;
+  a:hasContentString "Phone";
+  a:hasEndDate "2014-05-05T18:21:15.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:20:53.000"^^xsd:dateTime .
+
+a:Element_1_1 a a:Element;
+  a:hasContentString "Phone";
+  a:hasEndDate "2014-05-05T18:20:43.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:20:17.000"^^xsd:dateTime .
+
+a:Element_1_2 a a:Element;
+  a:hasContentString "Phone";
+  a:hasEndDate "2014-05-05T18:20:55.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:20:28.000"^^xsd:dateTime .
+
+a:Element_1_3 a a:Element;
+  a:hasContentString "Phone";
+  a:hasEndDate "2014-05-05T18:23:46.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:23:23.000"^^xsd:dateTime .
+
+a:Element_1_4 a a:Element;
+  a:hasContentString "Phone";
+  a:hasEndDate "2014-05-05T18:20:45.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:20:24.000"^^xsd:dateTime .
+
+a:Element_1_5 a a:Element;
+  a:hasContentString "Phone";
+  a:hasEndDate "2014-05-05T18:26:38.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:26:17.000"^^xsd:dateTime .
+
+a:Element_1_6 a a:Element;
+  a:hasContentString "Phone";
+  a:hasEndDate "2014-05-05T18:20:28.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:20:04.000"^^xsd:dateTime .
+
+a:Element_1_7 a a:Element;
+  a:hasContentString "PhoneZone";
+  a:hasEndDate "2014-05-05T18:24:34.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:24:13.000"^^xsd:dateTime .
+
+a:Element_1_8 a a:Element;
+  a:hasContentString "PhoneZone";
+  a:hasEndDate "2014-05-05T18:19:21.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:19:01.000"^^xsd:dateTime .
+
+a:Element_1_9 a a:Element;
+  a:hasContentString "PhoneZone";
+  a:hasEndDate "2014-05-05T18:23:51.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:23:28.000"^^xsd:dateTime .
+
+a:Element_1_10 a a:Element;
+  a:hasContentString "PhoneZone";
+  a:hasEndDate "2014-05-05T18:24:57.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:24:35.000"^^xsd:dateTime .
+
+a:Element_1_11 a a:Element;
+  a:hasContentString "PhoneZone";
+  a:hasEndDate "2014-05-05T18:27:12.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:26:49.000"^^xsd:dateTime .
+
+a:Element_1_12 a a:Element;
+  a:hasContentString "PhoneZone";
+  a:hasEndDate "2014-05-05T18:24:46.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:24:17.000"^^xsd:dateTime .
+
+a:Element_1_13 a a:Element;
+  a:hasContentString "PhoneZone";
+  a:hasEndDate "2014-05-05T18:25:40.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:25:13.000"^^xsd:dateTime .
+
+a:Element_1_14 a a:Element;
+  a:hasContentString "Talk";
+  a:hasEndDate "2014-05-05T18:19:06.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:18:43.000"^^xsd:dateTime .
+
+a:Element_1_15 a a:Element;
+  a:hasContentString "PickUpPhone";
+  a:hasEndDate "2014-05-05T18:22:30.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:22:02.000"^^xsd:dateTime .
+
+a:Element_1_16 a a:Element;
+  a:hasContentString "Talk";
+  a:hasEndDate "2014-05-05T18:26:02.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:25:36.000"^^xsd:dateTime .
+
+a:Element_1_17 a a:Element;
+  a:hasContentString "Talk";
+  a:hasEndDate "2014-05-05T18:23:10.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:22:49.000"^^xsd:dateTime .
+
+a:Element_1_18 a a:Element;
+  a:hasContentString "PickUpPhone";
+  a:hasEndDate "2014-05-05T18:27:29.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:27:00.000"^^xsd:dateTime .
+
+a:Element_1_19 a a:Element;
+  a:hasContentString "PickUpPhone";
+  a:hasEndDate "2014-05-05T18:27:34.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:27:09.000"^^xsd:dateTime .
+
+a:Element_1_20 a a:Element;
+  a:hasContentString "Spoon";
+  a:hasEndDate "2014-05-05T18:27:46.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:27:18.000"^^xsd:dateTime .
+
+a:Activity_2 a a:Activity;
+  a:hasElement a:Element_2;
+  a:hasObservation a:Observation_2 .
+
+a:Element_2 a a:Element;
+  a:hasContentString "DrinkTea";
+  a:hasEndDate "2014-05-05T18:41:53.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:27:18.000"^^xsd:dateTime .
+
+a:Observation_2 a a:Observation;
+  a:hasElement a:Element_2_0, a:Element_2_1, a:Element_2_10, a:Element_2_11, a:Element_2_12,
+    a:Element_2_13, a:Element_2_14, a:Element_2_15, a:Element_2_16, a:Element_2_17, a:Element_2_18,
+    a:Element_2_19, a:Element_2_2, a:Element_2_20, a:Element_2_21, a:Element_2_22, a:Element_2_23,
+    a:Element_2_3, a:Element_2_4, a:Element_2_5, a:Element_2_24, a:Element_2_6, a:Element_2_7,
+    a:Element_2_8, a:Element_2_9, a:Element_2_25 .
+
+a:Element_2_0 a a:Element;
+  a:hasContentString "Cup";
+  a:hasEndDate "2014-05-05T18:35:15.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:34:54.000"^^xsd:dateTime .
+
+a:Element_2_1 a a:Element;
+  a:hasContentString "Spoon";
+  a:hasEndDate "2014-05-05T18:27:46.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:27:18.000"^^xsd:dateTime .
+
+a:Element_2_2 a a:Element;
+  a:hasContentString "Cup";
+  a:hasEndDate "2014-05-05T18:29:30.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:29:09.000"^^xsd:dateTime .
+
+a:Element_2_3 a a:Element;
+  a:hasContentString "Cup";
+  a:hasEndDate "2014-05-05T18:40:16.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:39:56.000"^^xsd:dateTime .
+
+a:Element_2_4 a a:Element;
+  a:hasContentString "Cup";
+  a:hasEndDate "2014-05-05T18:30:53.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:30:30.000"^^xsd:dateTime .
+
+a:Element_2_5 a a:Element;
+  a:hasContentString "Cup";
+  a:hasEndDate "2014-05-05T18:41:12.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:40:49.000"^^xsd:dateTime .
+
+a:Element_2_6 a a:Element;
+  a:hasContentString "Spoon";
+  a:hasEndDate "2014-05-05T18:34:18.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:33:50.000"^^xsd:dateTime .
+
+a:Element_2_7 a a:Element;
+  a:hasContentString "Cup";
+  a:hasEndDate "2014-05-05T18:35:15.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:34:51.000"^^xsd:dateTime .
+
+a:Element_2_8 a a:Element;
+  a:hasContentString "Spoon";
+  a:hasEndDate "2014-05-05T18:29:22.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:28:53.000"^^xsd:dateTime .
+
+a:Element_2_9 a a:Element;
+  a:hasContentString "Cup";
+  a:hasEndDate "2014-05-05T18:29:14.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:28:53.000"^^xsd:dateTime .
+
+a:Element_2_10 a a:Element;
+  a:hasContentString "Spoon";
+  a:hasEndDate "2014-05-05T18:37:06.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:36:42.000"^^xsd:dateTime .
+
+a:Element_2_11 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T18:36:53.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:36:28.000"^^xsd:dateTime .
+
+a:Element_2_12 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T18:36:36.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:36:08.000"^^xsd:dateTime .
+
+a:Element_2_13 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T18:31:29.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:31:04.000"^^xsd:dateTime .
+
+a:Element_2_14 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T18:28:51.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:28:25.000"^^xsd:dateTime .
+
+a:Element_2_15 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T18:41:29.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:41:07.000"^^xsd:dateTime .
+
+a:Element_2_16 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T18:33:02.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:32:35.000"^^xsd:dateTime .
+
+a:Element_2_17 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T18:35:23.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:34:58.000"^^xsd:dateTime .
+
+a:Element_2_18 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T18:41:41.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:41:17.000"^^xsd:dateTime .
+
+a:Element_2_19 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T18:38:20.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:38:00.000"^^xsd:dateTime .
+
+a:Element_2_20 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T18:38:50.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:38:27.000"^^xsd:dateTime .
+
+a:Element_2_21 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T18:31:16.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:30:47.000"^^xsd:dateTime .
+
+a:Element_2_22 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T18:29:07.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:28:47.000"^^xsd:dateTime .
+
+a:Element_2_23 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T18:41:53.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:41:24.000"^^xsd:dateTime .
+
+a:Element_2_24 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T18:40:32.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:40:08.000"^^xsd:dateTime .
+
+a:Element_2_25 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T18:36:45.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:36:19.000"^^xsd:dateTime .
+
+a:Observation_2 a:hasElement a:Element_2_26, a:Element_2_27, a:Element_2_28, a:Element_2_29,
+    a:Element_2_30, a:Element_2_31, a:Element_2_32 .
+
+a:Element_2_26 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T18:30:07.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:29:40.000"^^xsd:dateTime .
+
+a:Element_2_27 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T18:29:18.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:28:51.000"^^xsd:dateTime .
+
+a:Element_2_28 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T18:32:19.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:31:56.000"^^xsd:dateTime .
+
+a:Element_2_29 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T18:37:16.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:36:47.000"^^xsd:dateTime .
+
+a:Element_2_30 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T18:34:45.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:34:25.000"^^xsd:dateTime .
+
+a:Element_2_31 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T18:32:30.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:32:08.000"^^xsd:dateTime .
+
+a:Element_2_32 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T18:30:00.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:29:36.000"^^xsd:dateTime .
+
+a:Activity_3 a a:Activity;
+  a:hasElement a:Element_3;
+  a:hasObservation a:Observation_3 .
+
+a:Element_3 a a:Element;
+  a:hasContentString "PrepareDrugBox";
+  a:hasEndDate "2014-05-05T18:55:40.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:42:34.000"^^xsd:dateTime .
+
+a:Observation_3 a a:Observation;
+  a:hasElement a:Element_3_0, a:Element_3_1, a:Element_3_10, a:Element_3_11, a:Element_3_12,
+    a:Element_3_13, a:Element_3_14, a:Element_3_15, a:Element_3_16, a:Element_3_17, a:Element_3_18,
+    a:Element_3_19, a:Element_3_2, a:Element_3_20, a:Element_3_21, a:Element_3_22, a:Element_3_3,
+    a:Element_3_4, a:Element_3_5, a:Element_3_6, a:Element_3_7, a:Element_3_8, a:Element_3_9 .
+
+a:Element_3_0 a a:Element;
+  a:hasContentString "Pillbox";
+  a:hasEndDate "2014-05-05T18:55:40.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:55:16.000"^^xsd:dateTime .
+
+a:Element_3_1 a a:Element;
+  a:hasContentString "Pillbox";
+  a:hasEndDate "2014-05-05T18:44:02.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:43:41.000"^^xsd:dateTime .
+
+a:Element_3_2 a a:Element;
+  a:hasContentString "Pillbox";
+  a:hasEndDate "2014-05-05T18:46:56.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:46:34.000"^^xsd:dateTime .
+
+a:Element_3_3 a a:Element;
+  a:hasContentString "Pillbox";
+  a:hasEndDate "2014-05-05T18:53:02.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:52:40.000"^^xsd:dateTime .
+
+a:Element_3_4 a a:Element;
+  a:hasContentString "Basket";
+  a:hasEndDate "2014-05-05T18:50:26.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:49:59.000"^^xsd:dateTime .
+
+a:Element_3_5 a a:Element;
+  a:hasContentString "Basket";
+  a:hasEndDate "2014-05-05T18:50:06.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:49:41.000"^^xsd:dateTime .
+
+a:Element_3_6 a a:Element;
+  a:hasContentString "Basket";
+  a:hasEndDate "2014-05-05T18:55:27.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:55:01.000"^^xsd:dateTime .
+
+a:Element_3_7 a a:Element;
+  a:hasContentString "Pillbox";
+  a:hasEndDate "2014-05-05T18:47:04.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:46:41.000"^^xsd:dateTime .
+
+a:Element_3_8 a a:Element;
+  a:hasContentString "Basket";
+  a:hasEndDate "2014-05-05T18:43:00.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:42:34.000"^^xsd:dateTime .
+
+a:Element_3_9 a a:Element;
+  a:hasContentString "Pillbox";
+  a:hasEndDate "2014-05-05T18:52:20.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:51:55.000"^^xsd:dateTime .
+
+a:Element_3_10 a a:Element;
+  a:hasContentString "MedicationZone";
+  a:hasEndDate "2014-05-05T18:54:27.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:53:59.000"^^xsd:dateTime .
+
+a:Element_3_11 a a:Element;
+  a:hasContentString "MedicationZone";
+  a:hasEndDate "2014-05-05T18:43:46.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:43:26.000"^^xsd:dateTime .
+
+a:Element_3_12 a a:Element;
+  a:hasContentString "MedicationZone";
+  a:hasEndDate "2014-05-05T18:47:48.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:47:27.000"^^xsd:dateTime .
+
+a:Element_3_13 a a:Element;
+  a:hasContentString "MedicationZone";
+  a:hasEndDate "2014-05-05T18:44:10.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:43:42.000"^^xsd:dateTime .
+
+a:Element_3_14 a a:Element;
+  a:hasContentString "MedicationZone";
+  a:hasEndDate "2014-05-05T18:50:35.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:50:11.000"^^xsd:dateTime .
+
+a:Element_3_15 a a:Element;
+  a:hasContentString "MedicationZone";
+  a:hasEndDate "2014-05-05T18:46:02.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:45:39.000"^^xsd:dateTime .
+
+a:Element_3_16 a a:Element;
+  a:hasContentString "MedicationZone";
+  a:hasEndDate "2014-05-05T18:53:16.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:52:54.000"^^xsd:dateTime .
+
+a:Element_3_17 a a:Element;
+  a:hasContentString "MedicationZone";
+  a:hasEndDate "2014-05-05T18:49:40.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:49:13.000"^^xsd:dateTime .
+
+a:Element_3_18 a a:Element;
+  a:hasContentString "MedicationZone";
+  a:hasEndDate "2014-05-05T18:54:52.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:54:29.000"^^xsd:dateTime .
+
+a:Element_3_19 a a:Element;
+  a:hasContentString "MedicationZone";
+  a:hasEndDate "2014-05-05T18:46:32.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:46:07.000"^^xsd:dateTime .
+
+a:Element_3_20 a a:Element;
+  a:hasContentString "Plant";
+  a:hasEndDate "2014-05-05T18:55:51.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:55:31.000"^^xsd:dateTime .
+
+a:Element_3_21 a a:Element;
+  a:hasContentString "PlantZone";
+  a:hasEndDate "2014-05-05T18:55:40.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:55:11.000"^^xsd:dateTime .
+
+a:Element_3_22 a a:Element;
+  a:hasContentString "Bending";
+  a:hasEndDate "2014-05-05T18:55:32.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:55:05.000"^^xsd:dateTime .
+
+a:Activity_4 a a:Activity;
+  a:hasElement a:Element_4;
+  a:hasObservation a:Observation_4 .
+
+a:Element_4 a a:Element;
+  a:hasContentString "WaterPlant";
+  a:hasEndDate "2014-05-05T19:03:23.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:55:05.000"^^xsd:dateTime .
+
+a:Observation_4 a a:Observation;
+  a:hasElement a:Element_4_0, a:Element_4_1, a:Element_4_10, a:Element_4_11, a:Element_4_12,
+    a:Element_4_13, a:Element_4_14, a:Element_4_15, a:Element_4_16, a:Element_4_17, a:Element_4_2,
+    a:Element_4_3, a:Element_4_4, a:Element_4_5, a:Element_4_6, a:Element_4_7, a:Element_4_8,
+    a:Element_4_9 .
+
+a:Element_4_0 a a:Element;
+  a:hasContentString "Pillbox";
+  a:hasEndDate "2014-05-05T18:55:40.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:55:16.000"^^xsd:dateTime .
+
+a:Element_4_1 a a:Element;
+  a:hasContentString "Plant";
+  a:hasEndDate "2014-05-05T19:03:23.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:03:03.000"^^xsd:dateTime .
+
+a:Element_4_2 a a:Element;
+  a:hasContentString "WateringCan";
+  a:hasEndDate "2014-05-05T18:58:10.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:57:47.000"^^xsd:dateTime .
+
+a:Element_4_3 a a:Element;
+  a:hasContentString "WateringCan";
+  a:hasEndDate "2014-05-05T19:00:33.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:00:13.000"^^xsd:dateTime .
+
+a:Element_4_4 a a:Element;
+  a:hasContentString "Plant";
+  a:hasEndDate "2014-05-05T18:55:51.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:55:31.000"^^xsd:dateTime .
+
+a:Element_4_5 a a:Element;
+  a:hasContentString "Plant";
+  a:hasEndDate "2014-05-05T18:58:32.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:58:04.000"^^xsd:dateTime .
+
+a:Element_4_6 a a:Element;
+  a:hasContentString "WateringCan";
+  a:hasEndDate "2014-05-05T19:00:15.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:59:49.000"^^xsd:dateTime .
+
+a:Element_4_7 a a:Element;
+  a:hasContentString "PlantZone";
+  a:hasEndDate "2014-05-05T18:55:40.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:55:11.000"^^xsd:dateTime .
+
+a:Element_4_8 a a:Element;
+  a:hasContentString "PlantZone";
+  a:hasEndDate "2014-05-05T18:57:27.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:57:02.000"^^xsd:dateTime .
+
+a:Element_4_9 a a:Element;
+  a:hasContentString "PlantZone";
+  a:hasEndDate "2014-05-05T18:57:52.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:57:25.000"^^xsd:dateTime .
+
+a:Element_4_10 a a:Element;
+  a:hasContentString "PlantZone";
+  a:hasEndDate "2014-05-05T19:00:05.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:59:37.000"^^xsd:dateTime .
+
+a:Element_4_11 a a:Element;
+  a:hasContentString "PlantZone";
+  a:hasEndDate "2014-05-05T19:02:57.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:02:30.000"^^xsd:dateTime .
+
+a:Element_4_12 a a:Element;
+  a:hasContentString "Bending";
+  a:hasEndDate "2014-05-05T19:03:07.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:02:47.000"^^xsd:dateTime .
+
+a:Element_4_13 a a:Element;
+  a:hasContentString "Bending";
+  a:hasEndDate "2014-05-05T19:01:52.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:01:24.000"^^xsd:dateTime .
+
+a:Element_4_14 a a:Element;
+  a:hasContentString "Bending";
+  a:hasEndDate "2014-05-05T18:55:32.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T18:55:05.000"^^xsd:dateTime .
+
+a:Element_4_15 a a:Element;
+  a:hasContentString "Bending";
+  a:hasEndDate "2014-05-05T19:03:05.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:02:36.000"^^xsd:dateTime .
+
+a:Element_4_16 a a:Element;
+  a:hasContentString "Bending";
+  a:hasEndDate "2014-05-05T19:01:18.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:00:50.000"^^xsd:dateTime .
+
+a:Element_4_17 a a:Element;
+  a:hasContentString "Newspaper";
+  a:hasEndDate "2014-05-05T19:03:42.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:03:17.000"^^xsd:dateTime .
+
+a:Activity_5 a a:Activity;
+  a:hasElement a:Element_5;
+  a:hasObservation a:Observation_5 .
+
+a:Element_5 a a:Element;
+  a:hasContentString "ReadArticle";
+  a:hasEndDate "2014-05-05T19:18:09.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:03:17.000"^^xsd:dateTime .
+
+a:Observation_5 a a:Observation;
+  a:hasElement a:Element_5_0, a:Element_5_1, a:Element_5_10, a:Element_5_11, a:Element_5_12,
+    a:Element_5_13, a:Element_5_14, a:Element_5_15, a:Element_5_16, a:Element_5_17, a:Element_5_18,
+    a:Element_5_19, a:Element_5_2, a:Element_5_20, a:Element_5_3, a:Element_5_4, a:Element_5_5,
+    a:Element_5_6, a:Element_5_7, a:Element_5_8, a:Element_5_9 .
+
+a:Element_5_0 a a:Element;
+  a:hasContentString "Newspaper";
+  a:hasEndDate "2014-05-05T19:16:19.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:15:57.000"^^xsd:dateTime .
+
+a:Element_5_1 a a:Element;
+  a:hasContentString "Newspaper";
+  a:hasEndDate "2014-05-05T19:03:53.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:03:29.000"^^xsd:dateTime .
+
+a:Element_5_2 a a:Element;
+  a:hasContentString "Newspaper";
+  a:hasEndDate "2014-05-05T19:10:51.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:10:25.000"^^xsd:dateTime .
+
+a:Element_5_3 a a:Element;
+  a:hasContentString "Newspaper";
+  a:hasEndDate "2014-05-05T19:16:13.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:15:47.000"^^xsd:dateTime .
+
+a:Element_5_4 a a:Element;
+  a:hasContentString "Newspaper";
+  a:hasEndDate "2014-05-05T19:09:08.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:08:48.000"^^xsd:dateTime .
+
+a:Element_5_5 a a:Element;
+  a:hasContentString "Newspaper";
+  a:hasEndDate "2014-05-05T19:18:09.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:17:43.000"^^xsd:dateTime .
+
+a:Element_5_6 a a:Element;
+  a:hasContentString "Newspaper";
+  a:hasEndDate "2014-05-05T19:03:42.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:03:17.000"^^xsd:dateTime .
+
+a:Element_5_7 a a:Element;
+  a:hasContentString "Newspaper";
+  a:hasEndDate "2014-05-05T19:10:12.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:09:46.000"^^xsd:dateTime .
+
+a:Element_5_8 a a:Element;
+  a:hasContentString "Newspaper";
+  a:hasEndDate "2014-05-05T19:11:23.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:10:57.000"^^xsd:dateTime .
+
+a:Element_5_9 a a:Element;
+  a:hasContentString "Newspaper";
+  a:hasEndDate "2014-05-05T19:12:58.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:12:29.000"^^xsd:dateTime .
+
+a:Element_5_10 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:05:33.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:05:13.000"^^xsd:dateTime .
+
+a:Element_5_11 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:05:54.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:05:34.000"^^xsd:dateTime .
+
+a:Element_5_12 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:14:42.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:14:18.000"^^xsd:dateTime .
+
+a:Element_5_13 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:17:59.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:17:35.000"^^xsd:dateTime .
+
+a:Element_5_14 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:10:48.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:10:22.000"^^xsd:dateTime .
+
+a:Element_5_15 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:07:01.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:06:33.000"^^xsd:dateTime .
+
+a:Element_5_16 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:15:12.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:14:52.000"^^xsd:dateTime .
+
+a:Element_5_17 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:06:12.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:05:45.000"^^xsd:dateTime .
+
+a:Element_5_18 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:15:19.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:14:52.000"^^xsd:dateTime .
+
+a:Element_5_19 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:06:00.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:05:37.000"^^xsd:dateTime .
+
+a:Element_5_20 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:05:08.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:04:47.000"^^xsd:dateTime .
+
+a:Activity_6 a a:Activity;
+  a:hasElement a:Element_6;
+  a:hasObservation a:Observation_6 .
+
+a:Element_6 a a:Element;
+  a:hasContentString "EstablishAccountBalance";
+  a:hasEndDate "2014-05-05T19:22:11.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:19:09.000"^^xsd:dateTime .
+
+a:Observation_6 a a:Observation;
+  a:hasElement a:Element_6_0, a:Element_6_1, a:Element_6_2, a:Element_6_3, a:Element_6_4,
+    a:Element_6_5 .
+
+a:Element_6_0 a a:Element;
+  a:hasContentString "Pen";
+  a:hasEndDate "2014-05-05T19:22:07.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:21:46.000"^^xsd:dateTime .
+
+a:Element_6_1 a a:Element;
+  a:hasContentString "Accounts";
+  a:hasEndDate "2014-05-05T19:21:10.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:20:48.000"^^xsd:dateTime .
+
+a:Element_6_2 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T19:21:17.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:20:53.000"^^xsd:dateTime .
+
+a:Element_6_3 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T19:20:32.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:20:09.000"^^xsd:dateTime .
+
+a:Element_6_4 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:19:36.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:19:09.000"^^xsd:dateTime .
+
+a:Element_6_5 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:22:11.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:21:48.000"^^xsd:dateTime .
+
+a:Activity_7 a a:Activity;
+  a:hasElement a:Element_7;
+  a:hasObservation a:Observation_7 .
+
+a:Element_7 a a:Element;
+  a:hasContentString "WriteCheck";
+  a:hasEndDate "2014-05-05T19:29:51.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:22:13.000"^^xsd:dateTime .
+
+a:Observation_7 a a:Observation;
+  a:hasElement a:Element_7_0, a:Element_7_1, a:Element_7_10, a:Element_7_11, a:Element_7_12,
+    a:Element_7_13, a:Element_7_14, a:Element_7_15, a:Element_7_16, a:Element_7_2, a:Element_7_3,
+    a:Element_7_4, a:Element_7_5, a:Element_7_6, a:Element_7_7, a:Element_7_8, a:Element_7_9 .
+
+a:Element_7_0 a a:Element;
+  a:hasContentString "Pen";
+  a:hasEndDate "2014-05-05T19:27:44.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:27:20.000"^^xsd:dateTime .
+
+a:Element_7_1 a a:Element;
+  a:hasContentString "Table";
+  a:hasEndDate "2014-05-05T19:29:51.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:29:22.000"^^xsd:dateTime .
+
+a:Element_7_2 a a:Element;
+  a:hasContentString "Table";
+  a:hasEndDate "2014-05-05T19:22:51.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:22:27.000"^^xsd:dateTime .
+
+a:Element_7_3 a a:Element;
+  a:hasContentString "Pen";
+  a:hasEndDate "2014-05-05T19:27:01.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:26:33.000"^^xsd:dateTime .
+
+a:Element_7_4 a a:Element;
+  a:hasContentString "Table";
+  a:hasEndDate "2014-05-05T19:22:34.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:22:13.000"^^xsd:dateTime .
+
+a:Element_7_5 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T19:26:46.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:26:24.000"^^xsd:dateTime .
+
+a:Element_7_6 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T19:24:59.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:24:38.000"^^xsd:dateTime .
+
+a:Element_7_7 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T19:24:07.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:23:39.000"^^xsd:dateTime .
+
+a:Element_7_8 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T19:25:43.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:25:21.000"^^xsd:dateTime .
+
+a:Element_7_9 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T19:26:11.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:25:48.000"^^xsd:dateTime .
+
+a:Element_7_10 a a:Element;
+  a:hasContentString "TableZone";
+  a:hasEndDate "2014-05-05T19:27:15.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:26:54.000"^^xsd:dateTime .
+
+a:Element_7_11 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:24:13.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:23:48.000"^^xsd:dateTime .
+
+a:Element_7_12 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:29:23.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:28:56.000"^^xsd:dateTime .
+
+a:Element_7_13 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:27:53.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:27:26.000"^^xsd:dateTime .
+
+a:Element_7_14 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:24:00.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:23:31.000"^^xsd:dateTime .
+
+a:Element_7_15 a a:Element;
+  a:hasContentString "Sitting";
+  a:hasEndDate "2014-05-05T19:24:09.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:23:43.000"^^xsd:dateTime .
+
+a:Element_7_16 a a:Element;
+  a:hasContentString "MapZone";
+  a:hasEndDate "2014-05-05T19:29:33.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:29:10.000"^^xsd:dateTime .
+
+a:Activity_8 a a:Activity;
+  a:hasElement a:Element_8;
+  a:hasObservation a:Observation_8 .
+
+a:Element_8 a a:Element;
+  a:hasContentString "SearchForBusLine";
+  a:hasEndDate "2014-05-05T19:42:57.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:29:10.000"^^xsd:dateTime .
+
+a:Observation_8 a a:Observation;
+  a:hasElement a:Element_8_0, a:Element_8_1, a:Element_8_10, a:Element_8_11, a:Element_8_12,
+    a:Element_8_13, a:Element_8_14, a:Element_8_15, a:Element_8_16, a:Element_8_17, a:Element_8_18,
+    a:Element_8_19, a:Element_8_2, a:Element_8_20, a:Element_8_3, a:Element_8_4, a:Element_8_5,
+    a:Element_8_6, a:Element_8_7, a:Element_8_8, a:Element_8_9 .
+
+a:Element_8_0 a a:Element;
+  a:hasContentString "Table";
+  a:hasEndDate "2014-05-05T19:29:51.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:29:22.000"^^xsd:dateTime .
+
+a:Element_8_1 a a:Element;
+  a:hasContentString "RouteInstructions";
+  a:hasEndDate "2014-05-05T19:42:28.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:42:05.000"^^xsd:dateTime .
+
+a:Element_8_2 a a:Element;
+  a:hasContentString "RouteInstructions";
+  a:hasEndDate "2014-05-05T19:38:21.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:37:56.000"^^xsd:dateTime .
+
+a:Element_8_3 a a:Element;
+  a:hasContentString "Map";
+  a:hasEndDate "2014-05-05T19:30:37.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:30:13.000"^^xsd:dateTime .
+
+a:Element_8_4 a a:Element;
+  a:hasContentString "RouteInstructions";
+  a:hasEndDate "2014-05-05T19:40:42.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:40:15.000"^^xsd:dateTime .
+
+a:Element_8_5 a a:Element;
+  a:hasContentString "Map";
+  a:hasEndDate "2014-05-05T19:38:19.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:37:54.000"^^xsd:dateTime .
+
+a:Element_8_6 a a:Element;
+  a:hasContentString "RouteInstructions";
+  a:hasEndDate "2014-05-05T19:36:08.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:35:47.000"^^xsd:dateTime .
+
+a:Element_8_7 a a:Element;
+  a:hasContentString "Map";
+  a:hasEndDate "2014-05-05T19:38:14.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:37:48.000"^^xsd:dateTime .
+
+a:Element_8_8 a a:Element;
+  a:hasContentString "RouteInstructions";
+  a:hasEndDate "2014-05-05T19:38:05.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:37:44.000"^^xsd:dateTime .
+
+a:Element_8_9 a a:Element;
+  a:hasContentString "Map";
+  a:hasEndDate "2014-05-05T19:39:37.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:39:12.000"^^xsd:dateTime .
+
+a:Element_8_10 a a:Element;
+  a:hasContentString "RouteInstructions";
+  a:hasEndDate "2014-05-05T19:35:08.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:34:41.000"^^xsd:dateTime .
+
+a:Element_8_11 a a:Element;
+  a:hasContentString "MapZone";
+  a:hasEndDate "2014-05-05T19:40:11.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:39:49.000"^^xsd:dateTime .
+
+a:Element_8_12 a a:Element;
+  a:hasContentString "MapZone";
+  a:hasEndDate "2014-05-05T19:29:33.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:29:10.000"^^xsd:dateTime .
+
+a:Element_8_13 a a:Element;
+  a:hasContentString "MapZone";
+  a:hasEndDate "2014-05-05T19:32:03.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:31:41.000"^^xsd:dateTime .
+
+a:Element_8_14 a a:Element;
+  a:hasContentString "MapZone";
+  a:hasEndDate "2014-05-05T19:41:11.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:40:45.000"^^xsd:dateTime .
+
+a:Element_8_15 a a:Element;
+  a:hasContentString "MapZone";
+  a:hasEndDate "2014-05-05T19:36:04.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:35:39.000"^^xsd:dateTime .
+
+a:Element_8_16 a a:Element;
+  a:hasContentString "MapZone";
+  a:hasEndDate "2014-05-05T19:37:55.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:37:27.000"^^xsd:dateTime .
+
+a:Element_8_17 a a:Element;
+  a:hasContentString "MapZone";
+  a:hasEndDate "2014-05-05T19:42:33.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:42:10.000"^^xsd:dateTime .
+
+a:Element_8_18 a a:Element;
+  a:hasContentString "MapZone";
+  a:hasEndDate "2014-05-05T19:40:11.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:39:49.000"^^xsd:dateTime .
+
+a:Element_8_19 a a:Element;
+  a:hasContentString "MapZone";
+  a:hasEndDate "2014-05-05T19:42:57.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:42:33.000"^^xsd:dateTime .
+
+a:Element_8_20 a a:Element;
+  a:hasContentString "MapZone";
+  a:hasEndDate "2014-05-05T19:35:29.000"^^xsd:dateTime;
+  a:hasStartDate "2014-05-05T19:35:08.000"^^xsd:dateTime .

@@ -1,0 +1,32 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sp: <http://spinrdf.org/sp#> .
+@prefix spin: <http://spinrdf.org/spin#> .
+@prefix ac: <http://www.semanticweb.org/user/ontologies/2020/1/activity#> .
+
+ac:Element a owl:Class;
+	spin:rule [
+                a sp:Modify;
+    sp:text """PREFIX ac: <http://www.semanticweb.org/user/ontologies/2020/1/activity#>
+				DELETE {
+					?this ac:hasStartDate ?sd1
+				}
+				INSERT {
+					?this ac:hasStartDate ?ed2
+				}
+				WHERE {
+						?a1 ac:hasElement  ?this . 
+						?a1 a ac:Activity . 
+						?a1 ac:hasObservation ?o1 .
+						?o1 a ac:Observation .
+						?this ac:hasStartDate ?sd1 .
+						?a2  a ac:Activity .
+						?a2 ac:hasElement  ?e2 .
+						?a2 ac:hasObservation ?o2 .
+						?o2 a ac:Observation .
+						?e2 ac:hasEndDate ?ed2 .
+						?e2 ac:hasStartDate ?sd2 .
+						FILTER ((xsd:dateTime(?ed2) > xsd:dateTime(?sd1)) &&  (xsd:dateTime(?sd1) > xsd:dateTime(?sd2)))
+				}"""
+	] .
+
+
