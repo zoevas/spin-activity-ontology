@@ -1,6 +1,6 @@
 # spin-activity-ontology
 
-FILES USED:
+RESOURCES:
 
 On spin-activity-ontology/src/main/resources/ path:
 - Activity_Ontology.owl contains the ontology - It has been produced by Protege in Turtle format
