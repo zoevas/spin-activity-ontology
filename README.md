@@ -1,6 +1,7 @@
 # spin-activity-ontology
 
 FILES USED:
+
 On spin-activity-ontology/src/main/resources/ path:
 - Activity_Ontology.owl contains the ontology - It has been produced by Protege in Turtle format
 - Activity_Statements.owl contains the rdf statements for the instances - It has been produced by https://github.com/zoevas/IoTSemantic.git application
